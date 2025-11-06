@@ -84,18 +84,11 @@ Patent application is in progress. All derivative commercial use must credit the
 📡 Open-source synchronization to IPFS + Zenodo scheduled
 
 
-<p align="center">
-  <img src="https://gold-secondary-impala-253.mypinata.cloud/ipfs/bafkreibu2mwv6hz422ojf3melybdpbijzxiqjgw5ka46cpy62q37afysgu" alt="Forge Protocol Badge" height="60"/>
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17541182.svg)](https://doi.org/10.5281/zenodo.17541182) [![IPFS: Active](https://img.shields.io/badge/IPFS-active-brightgreen)](https://gold-secondary-impala-253.mypinata.cloud/ipfs/bafkreibu2mwv6hz422ojf3melybdpbijzxiqjgw5ka46cpy62q37afysgu) [![Forge Phase](https://img.shields.io/badge/Forge%20Phase-34.2-orange)]()
 
-  <br/>
 
-  <a href="https://doi.org/10.5281/zenodo.17541182">
-    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17541182.svg" alt="DOI">
-  </a>
 
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License">
-  </a>
 
-  <img src="https://img.shields.io/badge/Recursion-Integrity_Locked-black?style=flat-square" alt="Recursion Integrity Locked">
-</p>
+
+
+
