@@ -87,7 +87,6 @@ Patent application is in progress. All derivative commercial use must credit the
 <p align="center">
   <img src="https://gold-secondary-impala-253.mypinata.cloud/ipfs/bafkreibu2mwv6hz422ojf3melybdpbijzxiqjgw5ka46cpy62q37afysgu" alt="Forge Protocol Badge" height="60"/><br/>
 
-  ## Badges
   <a href="https://doi.org/10.5281/zenodo.17541182">
     <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17541182.svg" alt="DOI">
   </a>
